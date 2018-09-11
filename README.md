@@ -1,2 +1,2 @@
 # google-homepage
-Deconstructed the Google homepage to rebuild it. 
+IN PROGRESS: Deconstructed the Google homepage to rebuild it. 
