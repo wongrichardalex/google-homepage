@@ -1,0 +1,43 @@
+div {
+	background-color: white;
+}
+
+
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+.resizedText {
+	width: 485px; height: 40px;
+	box-shadow:2px 5px 5px #999;
+
+}
+
+
+.t_left {
+	position: absolute;
+	text-align: left;
+	margin-top: -50px;
+
+}
+
+.t_right {
+	text-align: right;
+	top: 0, left: 0, right: 100%, width = 100%;
+}
+
+.b_left {
+	text-align: left;
+	top: -100px, left: 50px, right: 0, width = 100%;
+}
+
+.b_right {
+	text-align: right;
+}
+
+
+
+img{
+	vertical-align: center;
+}
